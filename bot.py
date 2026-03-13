@@ -6,7 +6,7 @@ import unicodedata
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "PUT_NEW_TOKEN_HERE"
+TOKEN = "8793387529:AAGSN9GpfT1tjipsdE7-bkTHbvKThOHA3pU"
 
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
 
